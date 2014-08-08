@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Alaa Attya Mohamed
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web/Mobile Developer, coding tweaker, Web Apps killer, techie fan. PHP is my mother tongue http://about.me/AlaaAttya 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: vidooman@gmail.com
+  facebook: https://www.facebook.com/alaa.attya
   flickr: 
-  github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
+  github: AlaaAttya
+  instagram: instagram.com/alaaattya
+  linkedin: http://eg.linkedin.com/in/alaaattya
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: AlaaAttya
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
@@ -37,13 +37,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://alaaattya.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://alaaattya.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
