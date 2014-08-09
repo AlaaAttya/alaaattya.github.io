@@ -9,7 +9,7 @@ name: Alaa Attya Mohamed
 description: Web/Mobile Developer, coding tweaker, Web Apps killer, techie fan. PHP is my mother tongue http://about.me/AlaaAttya 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: ![_config.yml]({{ site.baseurl }}/blog/images/config.png)
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: vidooman@gmail.com
-  facebook: https://www.facebook.com/alaa.attya
+  facebook: alaa.attya
   flickr: 
   github: AlaaAttya
-  instagram: instagram.com/alaaattya
-  linkedin: http://eg.linkedin.com/in/alaaattya
+  instagram: alaaattya
+  linkedin: alaaattya
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: AlaaAttya
