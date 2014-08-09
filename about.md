@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-Some information about you!
+I'm a software engineer, interested in web development, big data scaling , some piece of mobile App.s & Looking for all new 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Im not supported by many people but it’s fair enough to be supported by my special one [Mai Mohamed](https://twitter.com/mayoya91) :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vidooman@gmail.com](vidooman@gmail.com)
