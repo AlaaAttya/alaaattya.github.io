@@ -9,7 +9,7 @@ name: Alaa Attya Mohamed
 description: Web/Mobile Developer, coding tweaker, Web Apps killer, techie fan. PHP is my mother tongue http://about.me/AlaaAttya 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/blog/images/config.png)
+avatar: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c97.61.766.766/s160x160/983952_10200660525289034_877995972_n.jpg?oh=348d06387ea21703c6f33d4ae616aee8&oe=5467D07D&__gda__=1415851125_187a0c52004fb7670b526583ba594974
 
 #
 # Flags below are optional
